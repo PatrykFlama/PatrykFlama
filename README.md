@@ -1,4 +1,10 @@
-### Hi there 👋
+<!-- <center> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</center> -->
+
+
+
 
 <!--
 **PatrykFlama/PatrykFlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
