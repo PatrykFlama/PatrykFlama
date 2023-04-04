@@ -32,7 +32,7 @@
 
 
 <h2 align="center">
-  My small projects:
+  Small projects:
 </h2>
 
 <p align="center">
