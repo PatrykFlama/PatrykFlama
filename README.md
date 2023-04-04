@@ -3,8 +3,13 @@
   <img src="https://profile-counter.glitch.me/PatrykFlama/count.svg" />
 </p>
 
+
+<h2 align="center">
+  My Github stats:
+</h2>
+
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green">
+  <img src = "https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykFlama&theme=blue-green&langs_count=3">
 </p>
   
