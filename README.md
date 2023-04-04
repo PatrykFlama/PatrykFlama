@@ -11,7 +11,12 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=PatrykFlama&theme=blue-green">
 </p>
+
   
+<h2 align="center">
+  Code collection repos:
+</h2>
+
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Algorytmy">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Themis">
