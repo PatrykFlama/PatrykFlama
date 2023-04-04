@@ -55,6 +55,8 @@
   <img src="https://profile-counter.glitch.me/PatrykFlama/count.svg" />
 </p>
 
+<!-- TODO Maybe: https://github.com/anmol098/waka-readme-stats -->
+
 <!--
 **PatrykFlama/PatrykFlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
