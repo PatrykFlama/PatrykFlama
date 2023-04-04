@@ -23,8 +23,7 @@
 </h2>
 
 <p align="center">
-  <a herf="https://github.com/PatrykFlama/Algorytmy">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Algorytmy"></a>
+  <a herf="https://github.com/PatrykFlama/Algorytmy"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Algorytmy" /></a>
   <a herf="https://github.com/PatrykFlama/Themis">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Themis" /></a>
 </p>
