@@ -5,11 +5,20 @@
 
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykFlama&theme=blue-green">
-<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykFlama&theme=blue-green&langs_count=3">
+<\p>
   
-![Algorytmy repo](https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&repo=Algorytmy&theme=blue-green)
-
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=PatrykFlama&theme=blue-green">
+<\p>
+  
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Algorytmy">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Themis">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Tetris-competitive-edition">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=UltimateTicTacToe">
+<\p>
+  
 <!--
 **PatrykFlama/PatrykFlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
