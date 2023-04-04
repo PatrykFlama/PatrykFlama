@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://github.com/PatrykFlama/Algorytmy"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Algorytmy" /></a>
   <a href="https://github.com/PatrykFlama/Themis">
-  <img src = "" /></a>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Themis" /></a>
 </p>
 
 
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/PatrykFlama/Tetris-competitive-edition">
-  <img src = "" /></a>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Tetris-competitive-edition" /></a>
   <a href="https://github.com/PatrykFlama/UltimateTicTacToe">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=UltimateTicTacToe" /></a>
 </p>
