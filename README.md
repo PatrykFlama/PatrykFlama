@@ -3,9 +3,11 @@
   <img src="https://profile-counter.glitch.me/PatrykFlama/count.svg" />
 </p>
 
+<p align="center">
 ![Patryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykFlama&theme=blue-green)
-
+<p align="center">
+  
 ![Algorytmy repo](https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&repo=Algorytmy&theme=blue-green)
 
 <!--
