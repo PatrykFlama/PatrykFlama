@@ -17,8 +17,12 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Themis">
 </p>
 
-<p align="center">
+
+<h2 align="center">
   My small projects:
+</h2>
+
+<p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Tetris-competitive-edition">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=UltimateTicTacToe">
 </p>
