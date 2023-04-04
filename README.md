@@ -23,8 +23,8 @@
 </h2>
 
 <p align="center">
-  <a herf="https://github.com/PatrykFlama/Algorytmy"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Algorytmy" /></a>
-  <a herf="https://github.com/PatrykFlama/Themis">
+  <a href="https://github.com/PatrykFlama/Algorytmy"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Algorytmy" /></a>
+  <a href="https://github.com/PatrykFlama/Themis">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Themis" /></a>
 </p>
 
@@ -34,9 +34,9 @@
 </h2>
 
 <p align="center">
-  <a herf="https://github.com/PatrykFlama/Tetris-competitive-edition">
+  <a href="https://github.com/PatrykFlama/Tetris-competitive-edition">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Tetris-competitive-edition" /></a>
-  <a herf="https://github.com/PatrykFlama/UltimateTicTacToe">
+  <a href="https://github.com/PatrykFlama/UltimateTicTacToe">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=UltimateTicTacToe" /></a>
 </p>
 
@@ -44,7 +44,6 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/PatrykFlama/count.svg" />
-  <a href="https://github.com/PatrykFlama/UltimateTicTacToe"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=07CCFF&center=true&vCenter=true&width=650&lines=Hi!+I'm+Patryk;A+IT+and+math+student+at+University+of+Wroc%C5%82aw" alt="Typing SVG" /></a>
 </p>
 
 <!--
