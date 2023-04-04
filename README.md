@@ -3,11 +3,10 @@
   <img src="https://profile-counter.glitch.me/PatrykFlama/count.svg" />
 </p>
 
-![Patryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green#gh-dark-mode-only)]
-![Patryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=transparent#gh-light-mode-only)
+![Patryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykFlama&theme=blue-green)
 
-
-![](https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&repo=Algorytmy)
+![Algorytmy repo](https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&repo=Algorytmy&theme=blue-green)
 
 <!--
 **PatrykFlama/PatrykFlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
