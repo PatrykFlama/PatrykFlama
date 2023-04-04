@@ -9,13 +9,13 @@
 </h2>
 
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykFlama&theme=blue-green&langs_count=3">
+  <img src = "https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green&bg_color=30,040f0f,000f00">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&langs_count=3">
 </p>
   
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=PatrykFlama&theme=blue-green">
-  <img src = "https://streak-stats.demolab.com?user=PatrykFlama&theme=blue-green&mode=weekly&background=45%2C040F0F%2C000F00&stroke=7A7A7A">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00">
+  <img src = "https://streak-stats.demolab.com?user=PatrykFlama&theme=blue-green&mode=weekly&background=30%2C040F0F%2C000F00&stroke=7A7A7A">
 </p>
 
   
@@ -24,8 +24,8 @@
 </h2>
 
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Algorytmy">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Themis">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Algorytmy">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Themis">
 </p>
 
 
