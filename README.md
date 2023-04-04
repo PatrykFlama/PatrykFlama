@@ -13,7 +13,7 @@
 </p>
   
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00" />
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00">
   <img src = "https://streak-stats.demolab.com?user=PatrykFlama&theme=blue-green&mode=weekly&background=30%2C040F0F%2C000F00&stroke=7A7A7A" />
 </p>
 
@@ -44,6 +44,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/PatrykFlama/count.svg" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=07CCFF&center=true&vCenter=true&width=650&lines=Hi!+I'm+Patryk;A+IT+and+math+student+at+University+of+Wroc%C5%82aw" alt="Typing SVG" /></a>
 </p>
 
 <!--
