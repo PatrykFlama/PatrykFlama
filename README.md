@@ -3,8 +3,8 @@
   <img src="https://profile-counter.glitch.me/PatrykFlama/count.svg" />
 </p>
 
-![Patryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykFlama)](https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green#gh-dark-mode-only)
-![Patryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykFlama)](https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=transparent#gh-light-mode-only)
+![Patryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green#gh-dark-mode-only)]
+![Patryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=transparent#gh-light-mode-only)
 
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&repo=Algorytmy)
