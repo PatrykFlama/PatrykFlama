@@ -15,7 +15,7 @@
   
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=PatrykFlama&theme=blue-green">
-  <img src = "https://streak-stats.demolab.com?user=PatrykFlama&theme=blue-green&mode=weekly&background=45%2C040F0F%2C001701&stroke=7A7A7A">
+  <img src = "https://streak-stats.demolab.com?user=PatrykFlama&theme=blue-green&mode=weekly&background=45%2C040F0F%2C000F00&stroke=7A7A7A">
 </p>
 
   
