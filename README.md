@@ -46,14 +46,14 @@
 <h2 align="center"></h2>
 
 <p align="center">
-  <img src = "https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=%23E4E2E2&bgColor=30,040f0f,000f00" />
+  <img src = "https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=%23E4E2E2" />
 </p>
 
 
-<!-- <p align="center"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/PatrykFlama/count.svg" />
-</p> -->
+</p>
 
 <!-- TODO Maybe: https://github.com/anmol098/waka-readme-stats -->
 
