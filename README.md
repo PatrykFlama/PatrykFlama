@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07CCFF&center=true&vCenter=true&width=650&lines=Hi!+I'm+Patryk;A+IT+and+math+student+at+University+of+Wroc%C5%82aw" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=07CCFF&center=true&vCenter=true&width=650&lines=Hi!+I'm+Patryk;A+IT+and+math+student+at+University+of+Wroc%C5%82aw" />
 </p>
 
 
@@ -37,23 +37,23 @@
 
 <p align="center">
   <a href="https://github.com/PatrykFlama/Tetris-competitive-edition">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=Tetris-competitive-edition" /></a>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Tetris-competitive-edition" /></a>
   <a href="https://github.com/PatrykFlama/UltimateTicTacToe">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&repo=UltimateTicTacToe" /></a>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=UltimateTicTacToe" /></a>
 </p>
 
 
 <h2 align="center"></h2>
 
 <p align="center">
-  <img src = "https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=%23E4E2E2" />
+  <img src = "https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=%23E4E2E2&bgColor=30,040f0f,000f00" />
 </p>
 
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/PatrykFlama/count.svg" />
-</p>
+</p> -->
 
 <!-- TODO Maybe: https://github.com/anmol098/waka-readme-stats -->
 
