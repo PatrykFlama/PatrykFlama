@@ -55,6 +55,8 @@
   <img src="https://profile-counter.glitch.me/PatrykFlama/count.svg" />
 </p>
 
+![](https://hit.yhype.me/github/profile?user_id=51850536)
+
 <!-- TODO Maybe: https://github.com/anmol098/waka-readme-stats -->
 
 <!-- TODO
