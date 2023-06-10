@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PatrykFlama&count_private=true&show_icons=true&theme=blue-green&bg_color=30,040f0f,000f00" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&langs_count=3" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&langs_count=5" />
 </p>
   
 <p align="center">
@@ -25,7 +25,11 @@
 </h2>
 
 <p align="center">
+  <!-- UWr -->
+  <a href="https://github.com/PatrykFlama/UWr"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=UWr" /></a>
+  <!-- Algorytmy -->
   <a href="https://github.com/PatrykFlama/Algorytmy"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Algorytmy" /></a>
+  <!-- Themis -->
   <a href="https://github.com/PatrykFlama/Themis">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Themis" /></a>
 </p>
@@ -36,14 +40,19 @@
 </h2>
 
 <p align="center">
+  <!-- Tetris Competetive edition -->
   <a href="https://github.com/PatrykFlama/Tetris-competitive-edition">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Tetris-competitive-edition" /></a>
+  <!-- Ultimate Tic Tac Toe -->
   <a href="https://github.com/PatrykFlama/UltimateTicTacToe">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=UltimateTicTacToe" /></a>
+  <!-- Library System -->
+  <a href="https://github.com/PatrykFlama/LibrarySysyem">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=LibrarySysyem" /></a>  <!-- TODO: well thats an obvious typo, but cant fix it now - gotta wait -->
 </p>
 
 
-<h2 align="center"></h2>
+<h2 align="center"></h2>    <!-- draw nice line -->
 
 <p align="center">
   <img src = "https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=%23E4E2E2" />
