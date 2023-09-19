@@ -1,0 +1,168 @@
+\documentclass{letter}
+\usepackage{wallpaper}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage[T1]{fontenc}
+\usepackage[scaled]{helvet}
+\usepackage{fontawesome5}
+\usepackage{hyperref}
+\usepackage[none]{hyphenat}
+\usepackage{setspace}
+
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\setlength{\unitlength}{1em}
+\newcommand\level[1]{\begin{picture}(1,1)
+\ifnum0=#1\put(.5,.35){\circle{1}}\else
+\ifnum10=#1\put(.5,.35){\circle*{1}}\else
+\put(.5,.35){\circle{1}}\put(.5,.35){\circle*{.#1}}
+\fi\fi\end{picture}}
+
+\geometry{
+  paperwidth=\dimexpr\textwidth+\marginparsep+\marginparwidth\relax,
+  paperheight=\dimexpr\textheight+\footskip\relax,
+  left=20pt,
+  right=20pt,
+  top=0pt,
+  bottom=0pt,
+  nohead,
+  nofoot,
+  nomarginpar
+}
+
+\ThisCenterWallPaper{1.5}{cvbg.png}
+
+\begin{document}
+
+\begin{minipage}[t]{0.40\textwidth}
+\setlength{\baselineskip}{1.5\baselineskip}
+\color{white}
+\vspace{1cm}
+{\large Personal info}
+
+\rule{\linewidth}{0.4pt}
+
+\faPhone \quad +48 505 273 695
+
+\faEnvelope \quad \href{mailto:patrykflama@gmail.com}{patrykflama@gmail.com}
+
+\rule{\linewidth}{0.4pt}
+
+{\large Links}
+
+\faGithub \quad \href{https://github.com/PatrykFlama}{GitHub}
+
+\faLinkedin \quad \href{https://www.linkedin.com/in/patryk-flama-44676b280/}{LinkedIn}
+
+\rule{\linewidth}{0.4pt}
+
+{\large Skills}
+
+\faCircleNotch \quad Functional programming
+
+\faCircleNotch \quad Object oriented programming
+
+
+\rule{\linewidth}{0.4pt}
+
+{\large Programming languages}
+
+\faCircleNotch \quad C++
+\hfill \level{10} \level{10} \level{10} \hspace{1cm}
+
+\faCircleNotch \quad C
+\hfill \level{10} \level{10} \level{10} \hspace{1cm}
+
+\faCircleNotch \quad Python
+\hfill \level{10} \level{10} \level{0} \hspace{1cm}
+
+\faCircleNotch \quad C\#
+\hfill \level{10} \level{0} \level{0} \hspace{1cm}
+
+\faCircleNotch \quad Java
+\hfill \level{10} \level{0} \level{0} \hspace{1cm}
+
+
+\rule{\linewidth}{0.4pt}
+
+{\large Languages}
+
+\faLanguage \quad Polish
+
+\faLanguage \quad English
+
+\faLanguage \quad Spanish
+
+
+\rule{\linewidth}{0.4pt}
+
+{\large Internship availability}
+
+\faClock \quad 01.07.2024--01.10.2024
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\setlength{\baselineskip}{1.5\baselineskip}
+\vspace{0.8cm}
+{\huge Patryk Flama}
+
+\vspace{0.3cm}
+
+\begin{spacing}{1.125}
+\small 
+I started my journey before high school, taking extra courses to learn basic algorithmics and solving more advanced math problems. In high school, I took additional classes focused on competitive programming problem-solving while introducing more algorithms. It inspired me to focus my path on IT and go to the University of Wrocław, which allowed me to combine it with Math.
+\end{spacing}
+
+\vspace{0.3cm}
+
+{\large Education}
+\rule{\linewidth}{0.4pt}
+
+{\large \textbf{High School Diploma}}
+
+{\small XIV High School in Wrocław, 2019--2022}
+
+{\large \textbf{Bachelor of Science}}
+
+{\small Wrocław Institute of Computer Science and Mathematics, \\
+Oct 2022 -- Present (expected completion 2025)}
+
+\vspace{0.3cm}
+
+{\large Courses}
+\rule{\linewidth}{0.4pt}
+
+\textbf{Practical aspects of software engineering (NOKIA)} \\
+{\small Univeristy of Wrocław, February 2023 - June 2023}
+
+\textbf{Training for Computer Science Olympiad} \\
+{\small  LO XIV, January 2020 - May 2022}
+
+\vspace{0.3cm}
+
+{\large Strenghts}
+\rule{\linewidth}{0.4pt}
+Hard-working and persistent, performs well under pressure, motivated and optimistic, eager to work in a group
+
+\vspace{0.3cm}
+
+{\large Hobbies}
+\rule{\linewidth}{0.4pt}
+
+\begin{itemize}
+\itemsep0em 
+    \item Snowboarding, Biking
+    \item Programming, Math
+    \item Playing guitar
+    \item Tinkering
+    \item Cooking
+\end{itemize}
+
+\vfill
+\let\thefootnote\relax\footnotetext{ \color{gray!40} \fontsize{5pt}{3pt}\selectfont
+I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).}
+
+\end{minipage}
+\end{document}
