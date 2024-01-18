@@ -9,21 +9,23 @@
 <table align="center"><tr>
 
 </td><td valign="top" width="100%">
-<!-- ### Backend   -->
 <div align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="JavaScript" height="50" /></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   <a href="https://www.markdownguide.org/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" alt="Markdown" height="50" /></a>
   <a href="https://racket-lang.org/" target="_blank"><img style="margin: 10px" src="https://racket-lang.org/img/racket-logo.svg" alt="Racket" height="50" /></a>
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
   <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="Bash" height="50" /></a>
 </div>
 
-</tr></table>
+<!-- </td><td valign="top" width="50%"> -->
+
+</tr>
+</table>
 <br/>
 
 
@@ -33,6 +35,7 @@
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" alt="Github" height="50" /></a>
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" height="50" /></a>
 </div>
 <br/>
 
@@ -52,6 +55,9 @@
 <h2 align="center"> Small projects </h2>
 
 <p align="center">
+  <!-- FajrantInator.pl -->
+  <a href="https://github.com/PatrykFlama/FajrantInator.pl">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=FajrantInator.pl" /></a>
   <!-- Tetris Competetive edition -->
   <a href="https://github.com/PatrykFlama/Tetris-competitive-edition">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=PatrykFlama&theme=blue-green&bg_color=30,040f0f,000f00&repo=Tetris-competitive-edition" /></a>
