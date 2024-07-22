@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1713449596 "c:/Users/patry/Documents/Programming/PatrykFlama/cv/cv.tex" "cv.pdf" "cv" 1713449597 0
+["pdflatex"] 1719733306 "c:/Users/patry/Documents/Programming/PatrykFlama/cv/cv.tex" "cv.pdf" "cv" 1719733307 0
   "C:/Users/patry/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1700306911 90028 94aafaae8fc47adf9e2e26b831981223 ""
   "C:/Users/patry/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1700306463 10804633 91d98683b101b6833e497b141e2e3d1f ""
   "C:/Users/patry/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
@@ -99,9 +99,9 @@
   "C:/Users/patry/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/patry/AppData/Local/Programs/MiKTeX/tex/latex/wallpaper/wallpaper.sty" 1145608440 6919 f87ec89c767393dfb3b9adfd163539b0 ""
   "C:/Users/patry/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/patry/Documents/Programming/PatrykFlama/cv/cv.tex" 1713449597 4446 75c61f665f580147ec28c9e2da6244d0 ""
-  "cv.aux" 1713449597 554 e6f85c6f44bbe194532b4fa1fd8ca02c "pdflatex"
-  "cv.out" 1713449597 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "c:/Users/patry/Documents/Programming/PatrykFlama/cv/cv.tex" 1719733305 4506 c0391c25dc9b0d6af305b73d24afe127 ""
+  "cv.aux" 1719733307 554 e6f85c6f44bbe194532b4fa1fd8ca02c "pdflatex"
+  "cv.out" 1719733307 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "cvbg.png" 1700306391 6370 d0796df39f758c586db94be7fd53be96 ""
   (generated)
   "cv.aux"
