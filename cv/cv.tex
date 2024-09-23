@@ -1,5 +1,9 @@
-% TODO
-% 3 column layout techs/langs; experience; projects
+\newcommand{\FullName}{Patryk Flama}
+\newcommand{\ContactPhone}{505 273 695}
+\newcommand{\ContactEmail}{patrykflama@gmail.com}
+\newcommand{\GitHubID}{PatrykFlama}
+\newcommand{\LinkedInID}{patryk-flama}
+\newcommand{\SectionSpacing}{0.2cm}
 
 \documentclass{letter}
 \usepackage{wallpaper}
@@ -12,6 +16,9 @@
 \usepackage[none]{hyphenat}
 \usepackage{setspace}
 
+\usepackage{tcolorbox}
+
+\definecolor{darkblue}{RGB}{1, 22, 43}
 
 \renewcommand{\familydefault}{\sfdefault}
 
@@ -23,10 +30,9 @@
 \fi\fi\end{picture}}
 
 \geometry{
-  paperwidth=\dimexpr\textwidth+\marginparsep+\marginparwidth\relax,
-  paperheight=\dimexpr\textheight+\footskip\relax,
-  left=20pt,
-  right=20pt,
+  a4paper,
+  left=0pt,
+  right=0pt,
   top=0pt,
   bottom=0pt,
   nohead,
@@ -34,140 +40,201 @@
   nomarginpar
 }
 
-\ThisCenterWallPaper{1.5}{cvbg.png}
+\linespread{1.5}
 
 \begin{document}
 
-\begin{minipage}[t]{0.40\textwidth}
+\begin{minipage}[t]{0.30\textwidth}
 \setlength{\baselineskip}{1.5\baselineskip}
+\begin{tcolorbox}[colback=darkblue!90!black, colframe=darkblue!90!black, sharp corners, height=\textheight]
+
 \color{white}
-\vspace{1cm}
+\vspace{2cm}
 
 {\large Contact}
 
-\faPhone \quad +48 505 273 695
+\faPhone \quad +48 \ContactPhone
 
-\faEnvelope \quad \href{mailto:patrykflama@gmail.com}{patrykflama@gmail.com}
+\faEnvelope \quad \href{mailto:\ContactEmail}{\ContactEmail}
 
 \rule{\linewidth}{0.4pt}
 
 {\large Links}
 
-\faGithub \quad \href{https://github.com/PatrykFlama}{GitHub}
+\faGithub \quad \href{https://github.com/\GitHubID}{GitHub\space\space} 
+{\color{gray}\GitHubID}
 
-\faLinkedin \quad \href{https://www.linkedin.com/in/patryk-flama-44676b280/}{LinkedIn}
+\faLinkedin \quad \href{https://www.linkedin.com/in/\LinkedInID}{LinkedIn}
+{\color{gray}\LinkedInID}
+
+\faArrowCircleRight \quad \href{https://www.patrykflama.com}{Portfolio}
+{\color{gray}patrykflama.com}
 
 \rule{\linewidth}{0.4pt}
 
 {\large Skills}
 
-\faCircleNotch \quad Functional programming
+\faCircleNotch \quad Data structures and algorithms
 
 \faCircleNotch \quad Object oriented programming
 
+\faCircleNotch \quad Functional programming
 
-\rule{\linewidth}{0.4pt}
-
-{\large Programming languages}
-
-\faCircleNotch \quad C
-\hfill \level{10} \level{10} \level{10} \hspace{1cm}
-
-\faCircleNotch \quad C++
-\hfill \level{10} \level{10} \level{10} \hspace{1cm}
-
-\faCircleNotch \quad JavaScript
-\hfill \level{10} \level{10} \level{0} \hspace{1cm}
-
-\faCircleNotch \quad Python
-\hfill \level{10} \level{10} \level{0} \hspace{1cm}
-
-\faCircleNotch \quad Racket
-\hfill \level{10} \level{0} \level{0} \hspace{1cm}
+\faCircleNotch \quad C, C++
 
 \faCircleNotch \quad C\#
-\hfill \level{10} \level{0} \level{0} \hspace{1cm}
+
+\faCircleNotch \quad JavaScript, TypeScript
+
+\faCircleNotch \quad express.js
+
+\faCircleNotch \quad React, Vite
+
+\faCircleNotch \quad SQL
+
+\faCircleNotch \quad Python
+
+\faCircleNotch \quad Racket
+
 
 \rule{\linewidth}{0.4pt}
 
 {\large Languages}
 
-\faLanguage \quad Polish
+\faLanguage \quad Polish {\color{gray}(native)}
 
-\faLanguage \quad English
+\faLanguage \quad English {\color{gray}(C1)}
 
-\faLanguage \quad Spanish
+\faLanguage \quad Spanish {\color{gray}(A2)}
 
 
 \rule{\linewidth}{0.4pt}
 
 {\large Internship availability}
 
-\faClock \quad 01.07.2024--01.10.2024
+\faClock \quad June 2025 -- September 2025
 
+\end{tcolorbox}
 \end{minipage}
 \hfill
-\begin{minipage}[t]{0.60\textwidth}
+\begin{minipage}[t]{0.70\textwidth}
 \setlength{\baselineskip}{1.5\baselineskip}
-\vspace{0.8cm}
-{\huge Patryk Flama}
+
+\begin{tcolorbox}[colback=white, colframe=white, width=\textwidth, boxrule=0pt, sharp corners, height=\textheight, left=5mm, right=5mm, top=5mm, bottom=5mm]
+
+\color{black}
+
+\vspace{0.5cm}
+{\fontsize{30pt}{1pt} \textbf \FullName}
 
 \vspace{0.3cm}
 
 \begin{spacing}{1.125}
 \small 
-I started my journey before high school, taking extra courses to learn basic algorithmics and solving more advanced math problems. In high school, I took additional classes focused on competitive programming problem-solving while introducing more algorithms. It inspired me to focus my path on IT and go to the University of Wrocław, which allowed me to combine it with Math.
+Passionate about algorithms and data structures, driven by a love for continuous learning. Currently a 3rd-year Computer Science student at the University of Wrocław, aspiring software developer eager to tackle new challenges.
+
 \end{spacing}
 
-\vspace{0.3cm}
+\vspace{\SectionSpacing}
 
 {\large Education}
 \rule{\linewidth}{0.4pt}
 
+{\large \textbf{Bachelor of Engineering}} 
+
+{\textit \textbf Wrocław Institute of Computer Science and Mathematics}
+
+{\small Oct 2022 -- 2024}
+{Joint Studies in Computer Science and Mathematics }
+
+{\small Oct 2022 -- Present (expected completion 2026 February)}
+{Computer Science}
+
 {\large \textbf{High School Diploma}}
 
-{\small XIV High School in Wrocław, 2019--2022}
+{\small XIV High School in Wrocław, majoring in Math, Physics and IT  2019--2022}
 
-{\large \textbf{Bachelor of Science}}
 
-{\small Wrocław Institute of Computer Science and Mathematics, \\
-Oct 2022 -- 2024 Joint Studies in Computer Science and Mathematics \\
-Oct 2022 -- Present (expected completion 2026 February) Computer Science}
+\vspace{\SectionSpacing}
 
-\vspace{0.3cm}
-
-{\large Courses}
+{\large Experience}
 \rule{\linewidth}{0.4pt}
+
+\textbf{ZOSIA Conference} \\
+\vspace{-1mm}
+{\small 2023 winter camp in Przesieka} \\
+\vspace{-2mm}
+{\small 2024 winter camp in Szklarska Poręba}
+
+\textbf{Practical aspects of software engineering course (NOKIA)} \\
+{\small University of Wrocław, February 2023 - June 2023}
 
 \textbf{Training for Computer Science Olympiad} \\
 {\small  LO XIV, January 2020 - May 2022}
 
-\textbf{Practical aspects of software engineering (NOKIA)} \\
-{\small University of Wrocław, February 2023 - June 2023}
-
-\vspace{0.3cm}
-
-{\large Strengths}
+\vspace{\SectionSpacing}
+{\large Projects}
 \rule{\linewidth}{0.4pt}
-Hard-working and persistent, performs well under pressure, motivated and optimistic, eager to work in a group
 
-\vspace{0.3cm}
+{ \setstretch{1.1}
+\textbf{Library system} \\
+Program for managing university library, with full documentation made in Doxygen. \\
+{\small Technologies: Java $\cdot$ Swing $\cdot$ AWT $\cdot$ Doxygen $\cdot$ Graphviz } \\
+{\small \href{https://github.com/PatrykFlama/LibrarySystem}{Github repository (github.com/PatrykFlama/LibrarySystem)}}
+
+
+\textbf{Fajrantinator.pl} \\
+Express.js based simple online shop, ready to compile and run with Docker. Project developed in 3-person team. \\
+{\small Technologies: JavaScript $\cdot$ nodeJS $\cdot$ Express.js $\cdot$ Docker } \\
+{\small \href{https://github.com/PatrykFlama/FajrantInator.pl}{Github repository (github.com/PatrykFlama/FajrantInator.pl)}} 
+| {\small \href{https://fajrantinator.patrykflama.com/}{Demo (fajrantinator.patrykflama.com)}}
+
+
+\textbf{Portfolio} \\
+My portfolio website. \\
+{\small Technologies: TypeScript $\cdot$ React $\cdot$ Vite 
+HTML $\cdot$ CSS $\cdot$ Sass $\cdot$ Material UI $\cdot$ Docker } \\
+{\small \href{https://github.com/PatrykFlama/Portfolio}{Github repository (github.com/PatrykFlama/Portfolio)}} 
+| {\small \href{https://www.patrykflama.com/}{Demo (www.patrykflama.com)}}
+
+
+\textbf{Ultimate TicTacToe} \\
+Ultimate TicTacToe game made with ncurses in terminal. \\
+{\small Technologies:  C $\cdot$ ncurses } \\
+{\small \href{https://github.com/PatrykFlama/UltimateTicTacToe}{Github repository (github.com/PatrykFlama/UltimateTicTacToe)}} 
+
+
+\textbf{Tetris competetive edition} \\
+Tetris game developed in the terminal as part of a 7-person team, aimed to meet enterprise-level quality and standards. \\
+{\small Technologies:  CPP $\cdot$ CMake } \\
+{\small \href{https://github.com/PatrykFlama/Tetris-competitive-edition}{Github repository (github.com/PatrykFlama/Tetris-competitive-edition)}} 
+
+
+\textbf{React course projects} \\
+Small projects i did during react course i took during 3rd term at University of Wrocław. \\
+{\small Technologies: TypeScript $\cdot$ React $\cdot$ Vite 
+HTML $\cdot$ CSS $\cdot$ Sass $\cdot$ Material UI $\cdot$ Emotion $\cdot$ Tailwind } \\
+{\small \href{https://github.com/PatrykFlama/UWr/tree/main/Sem4/React}{Github repository (github.com/PatrykFlama/UWr/tree/main/Sem4/React)}}
+
+}
+
+
+\vspace{\SectionSpacing}
 
 {\large Hobbies}
 \rule{\linewidth}{0.4pt}
 
-\begin{itemize}
-\itemsep0em 
-    \item Snowboarding, biking
-    \item Problem solving, math
-    \item Playing piano and guitar
-    \item Tinkering, managing homelab and home automation
-    \item Cooking
-\end{itemize}
+{ \setstretch{1.0}
+-- tinkering, home automation\\
+-- sailing, snowboarding, mountain biking\\
+-- chantey and improvisation on guitar
+}
 
 \vfill
-\let\thefootnote\relax\footnotetext{ \color{gray!40} \fontsize{5pt}{3pt}\selectfont
+\vspace{-0.2cm}
+\let\thefootnote\relax\footnotetext{ \color{gray!40} \fontsize{4pt}{1pt}\selectfont
 I agree to the processing of personal data provided in this document for realizing the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).}
 
+\end{tcolorbox}
 \end{minipage}
 \end{document}
