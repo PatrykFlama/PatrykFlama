@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=07CCFF&center=true&vCenter=true&width=650&lines=Hi!+I'm+Patryk;An+IT+and+math+student+at+the+University+of+Wroc%C5%82aw" />
+  <img
+  href="https://patrykflama.com" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=07CCFF&center=true&vCenter=true&width=650&lines=Hi!+I'm+Patryk;An+IT+and+math+student+at+the+University+of+Wroc%C5%82aw" />
 </p>
 
 
 <div align="center">  
-  <a href="https://www.patrykflama.com/projects" target="_blank"><img style="margin: 10px" src="./button.png" alt="C" height="50" /></a>
+  <a href="https://patrykflama.com/projects" target="_blank"><img style="margin: 10px" src="./button.png" alt="C" height="50" /></a>
 </div>
 
 <h2 align="center"> My Skill Set </h2>
